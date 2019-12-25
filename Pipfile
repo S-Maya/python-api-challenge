@@ -11,6 +11,9 @@ pandas = "*"
 numpy = "*"
 requests = "*"
 ipykernel = "*"
+citipy = "*"
+matplotlib = "*"
+time = "*"
 
 [requires]
 python_version = "3.7"
